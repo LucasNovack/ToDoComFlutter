@@ -1,6 +1,14 @@
-# todo
+# ToDo com Flutter
 
-A new Flutter project.
+Projeto realizado como ponto de inicio na linguagem e framework.
+
+Utilizado alguns recursos como botão flutuante, gerência de estados e input(TextField).
+
+O intuido deste projeto é apenas para treinamento de conhecimento da linguagem.
+
+![image](https://user-images.githubusercontent.com/101848461/203811713-69b6dbc6-a6f7-4c2f-9ceb-a1e4cc6d5a86.png)
+
+Abaixo segue texto padrão para projetos flutter.
 
 ## Getting Started
 
